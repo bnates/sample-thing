@@ -8,11 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Link Placeholder
+[my link name](https://github.com/bnates/sample-thing/blob/gh-pages/page-2.md)
+
 ```markdown
 Syntax highlighted code block
-
-# Link Placeholder
-[my link name]()
 
 - Bulleted
 - List
